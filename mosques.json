@@ -1,0 +1,27 @@
+{
+  "vaureal": {
+    "name": { "fr": "Mosquée de Vauréal", "ar": "مسجد فوريال" },
+    "city": { "fr": "Vauréal", "ar": "فوريال" },
+    "data": "prayerData/vaureal.json"
+  },
+  "sidiKhaled": {
+    "name": { "fr": "Mosquée de Sidi-Khaled", "ar": "مسجد سيدي خالد" },
+    "city": { "fr": "Sidi Khaled", "ar": "سيدي خالد" },
+    "data": "prayerData/sidi_khaled.json"
+  },
+  "alger": {
+    "name": { "fr": "Mosquée d'Alger", "ar": "مسجد الجزائر" },
+    "city": { "fr": "Alger", "ar": "الجزائر" },
+    "data": "prayerData/alger.json"
+  },
+  "oran": {
+    "name": { "fr": "Mosquée d'Oran", "ar": "مسجد وهران" },
+    "city": { "fr": "Oran", "ar": "وهران" },
+    "data": "prayerData/oran.json"
+  },
+  "eaubonne": {
+    "name": { "fr": "Mosquée d'Eaubonne", "ar": "مسجد إوبون" },
+    "city": { "fr": "Eaubonne", "ar": "إوبون" },
+    "data": "prayerData/eaubonne.json"
+  }
+}
