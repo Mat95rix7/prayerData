@@ -2,26 +2,31 @@
   "vaureal": {
     "name": { "fr": "Mosquée de Vauréal", "ar": "مسجد فوريال" },
     "city": { "fr": "Vauréal", "ar": "فوريال" },
+    "coordinates": { "latitude": 49.0211, "longitude": 2.031 },
     "data": "prayerData/vaureal.json"
   },
   "sidiKhaled": {
     "name": { "fr": "Mosquée de Sidi-Khaled", "ar": "مسجد سيدي خالد" },
     "city": { "fr": "Sidi Khaled", "ar": "سيدي خالد" },
+    "coordinates": { "latitude": 34.4097, "longitude": 4.9811 },
     "data": "prayerData/sidi_khaled.json"
   },
   "alger": {
     "name": { "fr": "Mosquée d'Alger", "ar": "مسجد الجزائر" },
     "city": { "fr": "Alger", "ar": "الجزائر" },
+    "coordinates": { "latitude": 36.7309, "longitude": 3.2260 },
     "data": "prayerData/alger.json"
   },
   "oran": {
     "name": { "fr": "Mosquée d'Oran", "ar": "مسجد وهران" },
     "city": { "fr": "Oran", "ar": "وهران" },
+    "coordinates": { "latitude": 35.6186, "longitude": -0.7260 },
     "data": "prayerData/oran.json"
   },
   "eaubonne": {
     "name": { "fr": "Mosquée d'Eaubonne", "ar": "مسجد إوبون" },
     "city": { "fr": "Eaubonne", "ar": "إوبون" },
+    "coordinates": { "latitude": 48.9908, "longitude": 2.2775 },
     "data": "prayerData/eaubonne.json"
   }
 }
