@@ -28,5 +28,11 @@
     "city": { "fr": "Eaubonne", "ar": "إوبون" },
     "coordinates": { "latitude": 48.9908, "longitude": 2.2775 },
     "data": "prayerData/eaubonne.json"
+  },
+  "djamel": {
+    "name": { "fr": "Mosquée Djamel", "ar": "مسجد جمال" },
+    "city": { "fr": "Djamel", "ar": "جمال" },
+    "coordinates": { "latitude": 25.9908, "longitude": 12.2775 },
+    "data": "prayerData/djamel.json"
   }
 }
